@@ -4,11 +4,10 @@
 
 Opinionated example project for ClojureScript using Boot instead of Leiningen.
 Was inspired by [chestnut] but has grown since to include other stuff to
-demonstrate Boot.
+demonstrate Boot. Additional opinions added by me, @mathpunk.
 
-This is not an Leiningen template as I don't believe in setting up complex
-projects automatically. Instead you should study this project and copy
-only stuff you need and understand.
+Instead of a Leiningen template, this is a project you should 
+study -- copy only stuff you need and understand.
 
 ### Prerequisites
 
